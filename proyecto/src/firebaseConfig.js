@@ -3,13 +3,13 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBJPgHZWku_7Tg6tChD4ULXHi7UJKvwKF8",
-  authDomain: "busquedas-fbi.firebaseapp.com",
-  projectId: "busquedas-fbi",
-  storageBucket: "busquedas-fbi.firebasestorage.app",
-  messagingSenderId: "865092450522",
-  appId: "1:865092450522:web:e07d998c5997d95ad48de3",
-  measurementId: "G-G28BZ5XQ7L"
+  apiKey: "AIzaSyBWvj7D2Y66_GCi6TnigCz55YUMYci7tPc",
+  authDomain: "pokemon-16f40.firebaseapp.com",
+  projectId: "pokemon-16f40",
+  storageBucket: "pokemon-16f40.firebasestorage.app",
+  messagingSenderId: "3811096403",
+  appId: "1:3811096403:web:4ec303fb9528257659d3a6",
+  measurementId: "G-KLWYGZXG0W"
 };
 
 const app = initializeApp(firebaseConfig);
